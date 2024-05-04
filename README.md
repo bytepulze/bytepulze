@@ -1,7 +1,7 @@
 
 [![telegram](https://img.shields.io/badge/codepulze-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codepulze/)&nbsp;&nbsp;&nbsp;
 <p align="justify"> 
-Hello im codepulze, self taught developer with 5 - 6 years experience, my stack is below.
+CyberSecurity enthusiast
 </p>
 <h1>All my projects are for educitional purpoeses and shouldnt have be abused<h1>
 <table>
