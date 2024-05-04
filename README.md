@@ -1,5 +1,5 @@
 
-[![telegram](https://img.shields.io/badge/codepulze-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codepulze/)&nbsp;&nbsp;&nbsp;
+[![telegram](https://img.shields.io/badge/ltcflip-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ltcflip/)&nbsp;&nbsp;&nbsp;
 <p align="justify"> 
 CyberSecurity enthusiast
 </p>
