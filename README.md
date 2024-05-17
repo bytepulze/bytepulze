@@ -8,7 +8,7 @@ CyberSecurity enthusiast
   <tr>
     <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"></td>
     <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=java" alt="Node.js" width="65" height="65"></td>
     <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65"></td>
     <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65"></td>
     <td><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="65" height="65"></td>
