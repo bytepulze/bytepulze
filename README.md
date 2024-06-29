@@ -2,7 +2,7 @@
 [![telegram](https://img.shields.io/badge/ltcflip-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ltcflip/)&nbsp;&nbsp;&nbsp;
 [![discord](https://img.shields.io/badge/bytepulze-2CA5E0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1196844715774070906)&nbsp;&nbsp;&nbsp;
 <p align="justify"> 
-https://media.discordapp.net/attachments/1249443277950681208/1255598295057698917/IMG_1721.png?ex=66810249&is=667fb0c9&hm=6c3f4ff9d76e3f81fef0c521abd1abf7345cfa6f8ab5da71138008990847730c&=&format=webp&quality=lossless&width=872&height=453
+![image](https://github.com/bytepulze/ltcflip/assets/153377701/b89a4401-5254-4621-9757-d44ec95d5373)
 </p>
 <h1>All my projects are for educitional purpoeses and shouldnt have be abused<h1>
 <table>
