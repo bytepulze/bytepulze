@@ -1,36 +1,15 @@
+<div align=center>
+  <img src="https://github.com/hackirby/hackirby/blob/main/kirby.gif?raw=true" width=100px>
+  <br>
 
-[![telegram](https://img.shields.io/badge/ltcflip-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ltcflip/)&nbsp;&nbsp;&nbsp;
-[![discord](https://img.shields.io/badge/bytepulze-2CA5E0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1196844715774070906)&nbsp;&nbsp;&nbsp;
-<p align="justify"> 
+  <img src="https://count.getloli.com/get/@:bytepulze"/>
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=go,py">
+  <br>
+
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=hackirby&data=followers,repositories,stars&theme=darkmode" width=500>
+  <br>
+  
+  <a href="https://matrix.to/#/#hackirbys-place:matrix.org"><img src="https://img.shields.io/matrix/hackirbys-place%3Amatrix.org?style=for-the-badge&logo=matrix&label=Join%20my%20room%20to%20chat%20!&labelColor=db44ad&color=5e2775"></a>
 </p>
-<h1>All my projects are for educitional purpoeses and shouldnt have be abused<h1>
-  <table>
-  <tr>
-    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"></td>
-    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"></td>
-    <td><img src="https://skillicons.dev/icons?i=java" alt="Node.js" width="65" height="65"></td>
-    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65"></td>
-    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65"></td>
-    <td><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="65" height="65"></td>
-  </tr>
-</table>
-
-
-  <summary>Github Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BytePulze Stats" src="https://github-readme-stats.vercel.app/api/?username=bytepulze&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bytepulze Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytepulze&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-# FreeLance Developer, Dm To Hire
-- https://t.me/ltcflip
-- t.me/ltcflip
-- discord: bytepulze
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake.svg">
-</div>
