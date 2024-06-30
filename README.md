@@ -11,5 +11,5 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=bytepulze&data=followers,repositories,stars&theme=darkmode" width=500>
   <br>
   
-  <a href="https://matrix.to/#/#bytepulze:matrix.org"><img src="https://img.shields.io/matrix/hackirbys-place%3Amatrix.org?style=for-the-badge&logo=matrix&label=Join%20my%20room%20to%20chat%20!&labelColor=db44ad&color=5e2775"></a>
+  <a href="https://discord.gg/RUtnhwBmwj"><img src="https://img.shields.io/badge/Join%20my%Discord-2CA5E0?style=for-the-badge&logo=discord&labelColor=db44ad&color=5e2775"></a>
 </p>
