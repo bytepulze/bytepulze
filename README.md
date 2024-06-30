@@ -4,7 +4,7 @@
 <p align="justify"> 
 </p>
 <h1>All my projects are for educitional purpoeses and shouldnt have be abused<h1>
-[!image](https://count.getloli.com/get/@:bytepulze)
+[!image](https://count.getloli.com/get/@:bytepulze)&nbsp;&nbsp;&nbsp;
   <table>
   <tr>
     <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"></td>
