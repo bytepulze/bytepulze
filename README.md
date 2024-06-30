@@ -5,7 +5,7 @@
   <img src="https://count.getloli.com/get/@:bytepulze"/>
   <br>
   
-  <img src="https://skillicons.dev/icons?i=go,py">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,go,py">
   <br>
 
   <img src="https://github-widgetbox.vercel.app/api/profile?username=bytepulze&data=followers,repositories,stars&theme=darkmode" width=500>
